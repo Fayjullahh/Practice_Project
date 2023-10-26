@@ -1,7 +1,9 @@
 
 
-.bg-image {
-    background-image: url('Images/background.png'); /* Replace 'your-image.jpg' with the path to your background image */
-    background-size: cover;
-    background-position: center center;
+.bg-image{
+   
+        background-image: url('Images/background.png'); /* Replace 'your-image.jpg' with the path to your background image */
+        background-size: cover;
+        background-position: center center;
+    
 }
